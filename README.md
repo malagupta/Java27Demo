@@ -15,7 +15,7 @@ These examples cover vector arithmetic, reductions, comparisons, and masks.
 ### Blog posts
 
 1. [Before You Dive into Java’s Vector API](https://medium.com/@mala.gupta/before-you-dive-into-javas-vector-api-86b5655278f0): vectors, lanes, SIMD, and species.
-2. Java’s Vector API in Practice: Four Problems You Can Solve](https://medium.com/@mala.gupta/javas-vector-api-in-practice-four-problems-you-can-solve-8e1adacfc239): movie scoring, audio mixing, temperature checks, and image thresholding. **Published URL to be added.**
+2. [Java’s Vector API in Practice: Four Problems You Can Solve](https://medium.com/@mala.gupta/javas-vector-api-in-practice-four-problems-you-can-solve-8e1adacfc239): movie scoring, audio mixing, temperature checks, and image thresholding. **Published URL to be added.**
 
 ### Examples
 
